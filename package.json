@@ -4,6 +4,9 @@
   "version": "1.0.0",
   "type": "module",
   "description": "NY permit-test study guide for drivers trained on South African roads.",
+  "engines": {
+    "node": ">=22"
+  },
   "scripts": {
     "dev": "vite",
     "build": "tsc --noEmit && vite build",
