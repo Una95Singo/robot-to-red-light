@@ -274,7 +274,7 @@ export const QUESTIONS: Question[] = [
     x: ".08 is the DWI line \u2014 but note the next question before you relax your SA habits." },
   { cat: "Sober, belted, offline", q: "A BAC of .05 to .07 can be charged in New York as:",
     c: ["Nothing \u2014 it is under the limit", "Driving while ability impaired (DWAI)", "DWI", "Reckless driving"], a: 1,
-    x: "Your SA legal limit (.05) is precisely where NY's 'impaired' charge begins. Keep the home standard and you're safe on both counts." },
+    x: "Your SA legal limit (.05) is exactly where NY's 'impaired' charge starts, so driving at the limit you grew up with can still be charged here. Aim well below it." },
   { cat: "Sober, belted, offline", q: "Under the Zero Tolerance law, drivers under 21 face penalties at a BAC of:",
     c: [".02", ".05", ".08", ".10"], a: 0,
     x: "Under 21, .02 \u2014 effectively one drink \u2014 triggers penalties. No SA analogue this strict." },
