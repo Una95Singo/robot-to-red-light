@@ -8,6 +8,8 @@ for the written permit test.
 
 **→ [drive.singolab.com](https://drive.singolab.com)**
 
+See [CHANGELOG.md](CHANGELOG.md) for what's in the shipped release.
+
 ## The idea
 
 My problem isn't that I don't know how to drive. It's that a lot of what I do
